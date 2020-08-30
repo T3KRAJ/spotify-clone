@@ -10,7 +10,7 @@
 
 # production
 /build
-
+src/spotify.js
 # misc
 .DS_Store
 .env.local
