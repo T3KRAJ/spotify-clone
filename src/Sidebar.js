@@ -9,6 +9,7 @@ import { useDataLayerValue } from './DataLayer';
 
 function Sidebar() {
     const [{ playlists }, dispatch] = useDataLayerValue()
+   
     return(
         <div className="sidebar">
             <img className="sidebar__logo"
