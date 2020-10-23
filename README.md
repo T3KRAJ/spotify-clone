@@ -7,11 +7,11 @@ Shoutout to [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6
 
 ## Login View
 
-![Screenshot](screenshot1.png)
+![Screenshot](Screenshot1.png)
 
 ## Main Page 
 
-![Screenshot](screenshot2.png)
+![Screenshot](Screenshot2.png)
 
 -----
 
